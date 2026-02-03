@@ -1,6 +1,6 @@
-# EEG Eyes Open/Closed Classification
+# EEG Eyes Open/Closed Classification 
 
-A MATLAB project for classifying EEG signals to distinguish between eyes-open and eyes-closed states using alpha band power features.
+A MATLAB project for classifying EEG signals to distinguish between eyes-open and eyes-closed states using alpha band power features. This prpject is a coursework of Brain-Machine Interfaces module as part of UCL's curriculum.
 
 ## Features
 
